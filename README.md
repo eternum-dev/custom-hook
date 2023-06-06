@@ -1,3 +1,3 @@
 # Custom hook
 
-repositorio de mis rustom hook
+repositorio de mis custom hook
